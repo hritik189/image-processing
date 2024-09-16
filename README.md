@@ -63,7 +63,7 @@ This is a full-stack web application that allows users to upload and manipulate 
 Clone the Repository
 
 ```
-git clone https://github.com/your-username/image-processing-app.git
+git clone https://github.com/hritik189/image-processing.git
 cd image-processing-app
 ```
 ## Setup the Server
